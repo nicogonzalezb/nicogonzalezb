@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicogonzalezb
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Bussiness Inteligence
 - 📫 How to reach me... nicolasgonzalezbarrera@gmail.com
 
 <!---
