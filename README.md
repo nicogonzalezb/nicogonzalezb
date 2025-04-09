@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicogonzalezb
-- 👀 I’m interested in Data Science
+- 👀 I’m a Data Scientist
 - 🌱 I know some things on Python
 - 📫 How to reach me... nicolasgonzalezbarrera@gmail.com
 
